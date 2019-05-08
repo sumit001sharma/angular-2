@@ -1,0 +1,23 @@
+{
+  "name": "angular2",
+  "version": "1.0.0",
+  "description": "this is testing description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "devDependencies": {
+    "@angular/cli": "7.3.8"
+  },
+  "keywords": [
+    "angular",
+    "demo",
+    "practise"
+  ],
+  "author": "sumit sharma",
+  "license": "ISC"
+}
